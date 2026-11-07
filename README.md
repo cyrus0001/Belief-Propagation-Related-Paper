@@ -6,8 +6,9 @@ A curated collection of research papers on Cryptography, Lattice-Based Cryptogra
 
 | S. No. | Paper Title | Published In | Year | Author(s) | Paper Link |
 |:---:|---|---|:---:|---|---|
-| 1 | Single-Trace Attacks on Keccak | Conference/Journal | 2025 | Matthias J. Kannwischer, Peter Pessl | [PDF](PAPER_LINK_1) |
-| 2 | Paper Title 2 | Conference/Journal | 2026 | Author 1, Author 2 | [PDF](PAPER_LINK_2) |
+| 1 | Single-Trace Attacks on Keccak | CHES  | 2020 | Matthias J. Kannwischer, Peter Pessl | [PDF](https://eprint.iacr.org/2020/371) |
+| 2 | Single Trace Side-Channel Attack on the
+MPC-in-the-Head Framework | ePrint | 2024 | Julie Godard, Nicolas Aragon | [PDF](https://ia.cr/2024/1882) |
 
 ---
 
