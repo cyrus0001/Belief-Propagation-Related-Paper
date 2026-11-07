@@ -12,7 +12,7 @@ A curated collection of research papers on Cryptography, Lattice-Based Cryptogra
 | 4 | Fault-enabled chosen-ciphertext attacks on Kyber | INDOCRYPT | 2021 | Julius Hermelink, Peter Pessl | [PDF](https://ia.cr/2021/1222) |
 | 3 | Belief propagation meets lattice reduction: Security estimates for error-tolerant key recovery from decryption errors | CHES | 2023 | Julius Hermelink, Erik Mårtensson | [PDF](https://ia.cr/2023/098) |
 | 2 | Single-Trace Attacks on Keccak | CHES | 2020 | Matthias J. Kannwischer, Peter Pessl | [PDF](https://eprint.iacr.org/2020/371) |
-| 1 | Residual Belief Propagation: Informed Scheduling for Asynchronous Message Passing | - | 2012 | Gal Elidan, Ian McGraw | [PDE](https://arxiv.org/pdf/1206.6837v1) |
+| 1 | Residual Belief Propagation: Informed Scheduling for Asynchronous Message Passing | UAI | 2006 | Gal Elidan, Ian McGraw | [PDE](https://arxiv.org/pdf/1206.6837v1) |
 
 
 ---
