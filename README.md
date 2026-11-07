@@ -2,7 +2,7 @@
 
 A curated collection of research papers on Cryptography, Lattice-Based Cryptography, Learning With Errors (LWE), Post-Quantum Cryptography (PQC), and related areas.
 
-## List of Research Papers
+## List of Research Papers related to Belief Propagation
 
 | S. No. | Paper Title | Published In | Year | Author(s) | Paper Link |
 |:---:|---|:---:|:---:|---|---|
