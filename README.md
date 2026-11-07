@@ -6,7 +6,7 @@ A curated collection of research papers on Cryptography, Lattice-Based Cryptogra
 
 | S. No. | Paper Title | Published In | Year | Author(s) | Paper Link |
 |:---:|---|---|:---:|---|---|
-| 1 | Paper Title 1 | Conference/Journal | 2025 | Author 1, Author 2 | [PDF](PAPER_LINK_1) |
+| 1 | Single-Trace Attacks on Keccak | Conference/Journal | 2025 | Matthias J. Kannwischer, Peter Pessl | [PDF](PAPER_LINK_1) |
 | 2 | Paper Title 2 | Conference/Journal | 2026 | Author 1, Author 2 | [PDF](PAPER_LINK_2) |
 
 ---
